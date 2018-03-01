@@ -1,0 +1,9 @@
+[:9c09f15c-9ae7-4c31-a62e-4110c68708d4]
+foreground-color='#FFFFF0F0A5A5'
+visible-name='Grass'
+palette=['#000000000000', '#BBBB00000000', '#0000BBBB0000', '#E7E7B0B00000', '#00000000A3A3', '#959500006161', '#0000BBBBBBBB', '#BBBBBBBBBBBB', '#555555555555', '#BBBB00000000', '#0000BBBB0000', '#E7E7B0B00000', '#00000000BBBB', '#FFFF5555FFFF', '#5555FFFFFFFF', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#131377773C3C'

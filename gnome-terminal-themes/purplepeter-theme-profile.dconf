@@ -1,0 +1,9 @@
+[:5c30cc02-2537-48e2-921e-796103975b8a]
+foreground-color='#EBEBE6E6F9F9'
+visible-name='purplepeter'
+palette=['#0A0A04041F1F', '#FFFF78786C6C', '#9898B4B48181', '#EFEFDEDEABAB', '#6666D9D9EFEF', '#E6E68E8ECDCD', '#B9B98C8CFFFF', '#FFFFBABA8181', '#10100B0B2222', '#F8F89F9F9292', '#B4B4BDBD8E8E', '#F1F1E9E9BFBF', '#7979DADAEDED', '#B9B99191D4D4', '#A0A0A0A0D6D6', '#B9B9AEAED3D3']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#2A2A1A1A4A4A'

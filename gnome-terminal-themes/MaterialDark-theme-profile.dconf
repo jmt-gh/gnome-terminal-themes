@@ -1,0 +1,9 @@
+[:bb8974c0-5dec-4086-8d97-2dfd09a4f45e]
+foreground-color='#E4E4E4E4E4E4'
+visible-name='MaterialDark'
+palette=['#212121212121', '#B7B714141E1E', '#45457B7B2323', '#F5F597971D1D', '#13134E4EB2B2', '#555500008787', '#0E0E70707C7C', '#EEEEEEEEEEEE', '#424242424242', '#E8E83A3A3F3F', '#7A7ABABA3939', '#FEFEE9E92E2E', '#5353A4A4F3F3', '#A9A94D4DBBBB', '#2626BABAD1D1', '#D8D8D8D8D8D8']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#222222222121'

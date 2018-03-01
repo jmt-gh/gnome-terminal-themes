@@ -1,0 +1,9 @@
+[:bb358e29-eda5-4ebd-bdb0-1488c239331d]
+foreground-color='#000000000000'
+visible-name='Tango Adapted'
+palette=['#000000000000', '#FFFF00000000', '#5959D5D50000', '#EFEFCACA0000', '#0000A1A1FFFF', '#C1C17E7ECBCB', '#0000D0D0D6D6', '#E6E6EAEAE1E1', '#8E8E92928A8A', '#FFFF00001212', '#9393FEFE0000', '#FFFFF0F02121', '#8888C9C9FFFF', '#E8E8A6A6E1E1', '#0000FDFDFFFF', '#F6F6F6F6F4F4']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#FFFFFEFEFEFE'

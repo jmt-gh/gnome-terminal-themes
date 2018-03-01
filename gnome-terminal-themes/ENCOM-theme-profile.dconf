@@ -1,0 +1,9 @@
+[:28029f41-35b3-46c6-89a5-09d44cb542e3]
+foreground-color='#0000A5A59595'
+visible-name='ENCOM'
+palette=['#000000000000', '#9F9F00000000', '#00008B8B0000', '#FFFFCFCF0000', '#00008181FFFF', '#BCBC0000CACA', '#00008B8B8B8B', '#BBBBBBBBBBBB', '#555555555555', '#FFFF00000000', '#0000EEEE0000', '#FFFFFFFF0000', '#00000000FFFF', '#FFFF0000FFFF', '#0000CDCDCDCD', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

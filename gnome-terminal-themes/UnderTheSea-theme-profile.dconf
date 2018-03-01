@@ -1,0 +1,9 @@
+[:83801fdc-56be-4179-8c55-931d463eb2dd]
+foreground-color='#FFFFFEFEFEFE'
+visible-name='UnderTheSea'
+palette=['#020220202626', '#B1B12F2F2C2C', '#0000A9A94040', '#585880809C9C', '#444499998585', '#000059599C9C', '#5C5C7E7E1919', '#404055555454', '#373743435050', '#FFFF42424242', '#2A2AEAEA5E5E', '#8D8DD3D3FDFD', '#6161D4D4B9B9', '#12129898FFFF', '#9898CFCF2828', '#5858FAFAD6D6']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000010101515'

@@ -1,0 +1,9 @@
+[:acd2233e-f11b-4d7e-a2dc-fd3dd07e9fd8]
+foreground-color='#F8F8F8F8F2F2'
+visible-name='Dracula'
+palette=['#000000000000', '#FFFF55555555', '#5050FAFA7B7B', '#F1F1FAFA8C8C', '#BDBD9393F9F9', '#FFFF7979C6C6', '#8B8BE9E9FDFD', '#BBBBBBBBBBBB', '#555555555555', '#FFFF55555555', '#5050FAFA7B7B', '#F1F1FAFA8C8C', '#BDBD9393F9F9', '#FFFF7979C6C6', '#8B8BE9E9FDFD', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#1E1E1F1F2828'

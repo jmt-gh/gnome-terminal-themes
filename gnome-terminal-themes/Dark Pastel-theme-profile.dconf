@@ -1,0 +1,9 @@
+[:0e2d59a3-b8f8-40de-9e11-aef25085cd75]
+foreground-color='#FFFFFFFFFFFF'
+visible-name='Dark Pastel'
+palette=['#000000000000', '#FFFF55555555', '#5555FFFF5555', '#FFFFFFFF5555', '#55555555FFFF', '#FFFF5555FFFF', '#5555FFFFFFFF', '#BBBBBBBBBBBB', '#555555555555', '#FFFF55555555', '#5555FFFF5555', '#FFFFFFFF5555', '#55555555FFFF', '#FFFF5555FFFF', '#5555FFFFFFFF', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

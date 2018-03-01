@@ -1,0 +1,9 @@
+[:0cb397b4-d520-42b9-9656-e778c637a436]
+foreground-color='#CCCCCCCCCCCC'
+visible-name='deep'
+palette=['#000000000000', '#D6D600000505', '#1C1CD8D81515', '#D9D9BCBC2525', '#56566565FEFE', '#AFAF5151D9D9', '#4F4FD2D2D9D9', '#DFDFDFDFDFDF', '#535353535353', '#FBFB00000606', '#2121FEFE1717', '#FEFEDCDC2B2B', '#9F9FA8A8FEFE', '#E0E09999FEFE', '#8C8CF9F9FEFE', '#FFFFFEFEFEFE']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#080808080808'

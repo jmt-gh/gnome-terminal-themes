@@ -1,0 +1,9 @@
+[:41fa6ba0-3fce-4530-8158-b1dd0d6735bf]
+foreground-color='#EEEEEEEEEEEE'
+visible-name='Elementary'
+palette=['#242424242424', '#D6D61B1B1515', '#5959A4A41313', '#FDFDB4B40B0B', '#05053A3A8C8C', '#E4E400003838', '#25259494E0E0', '#EEEEEEEEEEEE', '#4A4A4A4A4A4A', '#FBFB1B1B1818', '#6A6AC1C11818', '#FDFDC7C70E0E', '#08085555FEFE', '#FBFB00004F4F', '#3E3EA7A7FCFC', '#8C8C0000EBEB']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#181818181818'

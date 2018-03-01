@@ -1,0 +1,9 @@
+[:9ae95811-5bf2-47f6-9f31-c9ce900b014b]
+foreground-color='#97979D9DB4B4'
+visible-name='AtelierSulphurpool'
+palette=['#202027274646', '#C9C949492222', '#ACAC97973939', '#C0C08B8B3030', '#3D3D8F8FD1D1', '#66667979CCCC', '#2222A2A2C9C9', '#97979D9DB4B4', '#6B6B73739494', '#C7C76B6B2929', '#292932325656', '#5E5E66668787', '#89898E8EA4A4', '#DFDFE2E2F1F1', '#9C9C63637A7A', '#F5F5F7F7FFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#202027274646'

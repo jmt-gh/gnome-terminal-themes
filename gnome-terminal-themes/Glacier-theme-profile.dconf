@@ -1,0 +1,9 @@
+[:6f8c19a3-80a2-4477-ba79-c8058bb3d511]
+foreground-color='#FFFFFFFFFFFF'
+visible-name='Glacier'
+palette=['#2E2E34343C3C', '#BDBD0F0F2F2F', '#3535A7A77070', '#FBFB94943535', '#1F1F58587272', '#BDBD25252323', '#777783839797', '#FFFFFFFFFFFF', '#40404A4A5555', '#BDBD0F0F2F2F', '#4949E9E99898', '#FDFDDFDF6E6E', '#2A2A8B8BC1C1', '#EAEA47472727', '#A0A0B6B6D3D3', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#0C0C11111515'

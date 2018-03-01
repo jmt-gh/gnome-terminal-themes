@@ -1,0 +1,9 @@
+[:1d791dff-4720-4cc1-aefe-b23f11fb0f74]
+foreground-color='#B3B3B3B3B3B3'
+visible-name='Wez'
+palette=['#000000000000', '#CCCC55555555', '#5555CCCC5555', '#CDCDCDCD5555', '#54545555CBCB', '#CCCC5555CCCC', '#7A7ACACACACA', '#CCCCCCCCCCCC', '#555555555555', '#FFFF55555555', '#5555FFFF5555', '#FFFFFFFF5555', '#55555555FFFF', '#FFFF5555FFFF', '#5555FFFFFFFF', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

@@ -1,0 +1,9 @@
+[:0f636abb-e701-4f0f-b6dc-1a6d7d5239b5]
+foreground-color='#404055555555'
+visible-name='Shaman'
+palette=['#010120202626', '#B1B12F2F2C2C', '#0000A9A94040', '#5D5D8A8AA9A9', '#444499998585', '#000059599C9C', '#5C5C7E7E1919', '#404055555454', '#373743435050', '#FFFF42424242', '#2A2AEAEA5E5E', '#8D8DD3D3FDFD', '#6161D4D4B9B9', '#12129898FFFF', '#9898CFCF2828', '#5858FAFAD6D6']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000010101414'

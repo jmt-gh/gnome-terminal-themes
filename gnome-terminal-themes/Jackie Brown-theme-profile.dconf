@@ -1,0 +1,9 @@
+[:5f503514-966f-4c8f-89ae-974ed898b7a7]
+foreground-color='#FFFFCCCC2F2F'
+visible-name='Jackie Brown'
+palette=['#2C2C1D1D1616', '#EFEF57573434', '#2B2BAFAF2B2B', '#BDBDBEBE0000', '#24246D6DB2B2', '#CFCF5E5EC0C0', '#0000ACACEEEE', '#BFBFBFBFBFBF', '#666666666666', '#E5E500000000', '#8686A8A83E3E', '#E5E5E5E50000', '#00000000FFFF', '#E5E50000E5E5', '#0000E5E5E5E5', '#E5E5E5E5E5E5']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#2C2C1C1C1515'

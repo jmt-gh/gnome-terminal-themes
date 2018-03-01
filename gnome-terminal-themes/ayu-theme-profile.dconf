@@ -1,0 +1,9 @@
+[:e668ff99-5395-49c6-b4d0-c968925231e4]
+foreground-color='#E6E6E1E1CFCF'
+visible-name='ayu'
+palette=['#000000000000', '#FFFF33333333', '#B8B8CCCC5252', '#E7E7C5C54747', '#3636A3A3D9D9', '#F0F071717878', '#9595E6E6CBCB', '#FFFFFFFFFFFF', '#323232323232', '#FFFF65656565', '#EAEAFEFE8484', '#FFFFF7F77979', '#6868D5D5FFFF', '#FFFFA3A3AAAA', '#C7C7FFFFFDFD', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#0F0F14141919'

@@ -1,0 +1,9 @@
+[:fef0ea31-8c36-4007-b7c1-47a4807a02bc]
+foreground-color='#E2E2D8D8CDCD'
+visible-name='ForestBlue'
+palette=['#333333333333', '#F8F881818E8E', '#9292D3D3A2A2', '#1A1A8D8D6363', '#8E8ED0D0CECE', '#5E5E46468C8C', '#313165658C8C', '#E2E2D8D8CDCD', '#3D3D3D3D3D3D', '#FBFB3D3D6666', '#6B6BB4B48D8D', '#2F2FC8C85959', '#3939A7A7A2A2', '#7E7E6262B3B3', '#60609696BFBF', '#E2E2D8D8CDCD']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#050515151919'

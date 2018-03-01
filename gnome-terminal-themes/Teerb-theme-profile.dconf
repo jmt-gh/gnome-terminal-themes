@@ -1,0 +1,9 @@
+[:c60c5a5f-ebb5-42b4-b0b3-8ccc46ca3cd3]
+foreground-color='#D0D0D0D0D0D0'
+visible-name='Teerb'
+palette=['#1C1C1C1C1C1C', '#D6D686868686', '#AEAED6D68686', '#D7D7AFAF8787', '#8686AEAED6D6', '#D6D6AEAED6D6', '#8A8ADBDBB4B4', '#D0D0D0D0D0D0', '#1C1C1C1C1C1C', '#D6D686868686', '#AEAED6D68686', '#E4E4C9C9AFAF', '#8686AEAED6D6', '#D6D6AEAED6D6', '#B1B1E7E7DDDD', '#EFEFEFEFEFEF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#262626262626'

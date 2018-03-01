@@ -1,0 +1,9 @@
+[:4d6d604e-6120-4f99-9a51-ca5851601b6a]
+foreground-color='#DBDBDFDFE4E4'
+visible-name='OneHalfDark'
+palette=['#27272C2C3333', '#DFDF6C6C7575', '#9898C3C37979', '#E4E4C0C07A7A', '#6161AFAFEFEF', '#C5C57777DDDD', '#5656B5B5C1C1', '#DBDBDFDFE4E4', '#27272C2C3333', '#DFDF6C6C7575', '#9898C3C37979', '#E4E4C0C07A7A', '#6161AFAFEFEF', '#C5C57777DDDD', '#5656B5B5C1C1', '#DBDBDFDFE4E4']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#27272C2C3333'

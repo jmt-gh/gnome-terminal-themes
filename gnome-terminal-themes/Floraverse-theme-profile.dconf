@@ -1,0 +1,9 @@
+[:a9829576-d60e-4a9d-b6ef-7b67958a2707]
+foreground-color='#DBDBD0D0B9B9'
+visible-name='Floraverse'
+palette=['#080800002E2E', '#646400002C2C', '#5D5D73731A1A', '#CDCD75751C1C', '#1D1D6D6DA1A1', '#B7B707077E7E', '#4242A3A38C8C', '#F3F3E0E0B8B8', '#33331E1E4D4D', '#D0D020206363', '#B4B4CECE5959', '#FAFAC3C35757', '#4040A4A4CFCF', '#F1F12A2AAEAE', '#6262CACAA8A8', '#FFFFF5F5DBDB']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#0E0E0C0C1515'

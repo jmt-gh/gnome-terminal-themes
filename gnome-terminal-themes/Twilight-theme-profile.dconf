@@ -1,0 +1,9 @@
+[:2df018de-cba0-4fee-9c7b-dde17fd3a29a]
+foreground-color='#FEFEFFFFD3D3'
+visible-name='Twilight'
+palette=['#141414141414', '#C0C06C6C4343', '#AFAFB9B97979', '#C2C2A8A86C6C', '#444446464949', '#B4B4BEBE7B7B', '#777782828484', '#FEFEFFFFD3D3', '#262626262626', '#DDDD7C7C4C4C', '#CBCBD8D88C8C', '#E1E1C4C47D7D', '#5A5A5D5D6161', '#D0D0DBDB8E8E', '#8A8A98989A9A', '#FEFEFFFFD3D3']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#141414141414'

@@ -1,0 +1,9 @@
+[:b4e06a1d-0577-4cd3-8ce8-93582f686613]
+foreground-color='#ECECEFEFC1C1'
+visible-name='Spacedust'
+palette=['#6E6E52524646', '#E3E35A5A0000', '#5C5CABAB9696', '#E3E3CDCD7B7B', '#0E0E54548B8B', '#E3E35A5A0000', '#0606AFAFC7C7', '#F0F0F1F1CECE', '#67674C4C3131', '#FFFF8A8A3939', '#ADADCACAB8B8', '#FFFFC7C77777', '#6767A0A0CDCD', '#FFFF8A8A3939', '#8383A6A6B3B3', '#FEFEFFFFF0F0']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#0A0A1E1E2424'

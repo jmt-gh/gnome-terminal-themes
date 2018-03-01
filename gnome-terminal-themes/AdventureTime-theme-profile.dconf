@@ -1,0 +1,9 @@
+[:0346095d-a177-4933-960e-7526705fd8f5]
+foreground-color='#F8F8DBDBC0C0'
+visible-name='AdventureTime'
+palette=['#050504040404', '#BCBC00001313', '#4949B1B11717', '#E6E674741D1D', '#0F0F4949C6C6', '#666659599292', '#6F6FA4A49797', '#F8F8DBDBC0C0', '#4E4E7B7BBFBF', '#FCFC5E5E5959', '#9D9DFFFF6E6E', '#EFEFC1C11A1A', '#18189696C6C6', '#9A9A59595252', '#C8C8F9F9F3F3', '#F5F5F4F4FBFB']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#1E1E1C1C4444'

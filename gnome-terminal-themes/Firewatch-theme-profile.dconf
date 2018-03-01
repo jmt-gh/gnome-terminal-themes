@@ -1,0 +1,9 @@
+[:f0ee3444-90e7-4b2e-88e2-6184e9740cb5]
+foreground-color='#9B9BA2A2B2B2'
+visible-name='Firewatch'
+palette=['#58585F5F6D6D', '#D9D953536060', '#5A5AB9B97777', '#DFDFB5B56363', '#4D4D8989C4C4', '#D5D551511919', '#4444A8A8B6B6', '#E6E6E5E5FFFF', '#58585F5F6D6D', '#D9D953536060', '#5A5AB9B97777', '#DFDFB5B56363', '#4C4C8989C4C4', '#D5D551511919', '#4444A8A8B6B6', '#E6E6E5E5FFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#1E1E20202727'

@@ -1,0 +1,9 @@
+[:2d6dffda-97eb-4818-b969-f9285cfde03d]
+foreground-color='#DADAD9D9C7C7'
+visible-name='synthwave'
+palette=['#000000000000', '#F6F618188F8F', '#1E1EBBBB2B2B', '#FDFDF8F83434', '#21218686ECEC', '#F8F85A5A2121', '#1212C3C3E2E2', '#FFFFFFFFFFFF', '#000000000000', '#F8F84141A0A0', '#2525C1C14141', '#FDFDF4F45454', '#2F2F9D9DEDED', '#F9F971713737', '#1919CDCDE6E6', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

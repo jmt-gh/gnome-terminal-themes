@@ -1,0 +1,9 @@
+[:16efb88a-370b-4e1e-bf6a-2fe5a1e06d4d]
+foreground-color='#D7D7C9C9A7A7'
+visible-name='Red Sands'
+palette=['#000000000000', '#FFFF3F3F0000', '#0000BBBB0000', '#E7E7B0B00000', '#00007171FFFF', '#BBBB0000BBBB', '#0000BBBBBBBB', '#BBBBBBBBBBBB', '#555555555555', '#BBBB00000000', '#0000BBBB0000', '#E7E7B0B00000', '#00007171AEAE', '#FFFF5555FFFF', '#5555FFFFFFFF', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#797924241E1E'

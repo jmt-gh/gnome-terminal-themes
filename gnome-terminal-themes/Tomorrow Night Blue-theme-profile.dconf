@@ -1,0 +1,9 @@
+[:079f82b6-70e1-4c27-aba7-a308ff1ce276]
+foreground-color='#FFFFFEFEFEFE'
+visible-name='Tomorrow Night Blue'
+palette=['#000000000000', '#FFFF9D9DA3A3', '#D1D1F1F1A9A9', '#FFFFEEEEADAD', '#BBBBDADAFFFF', '#EBEBBBBBFFFF', '#9999FFFFFFFF', '#FFFFFEFEFEFE', '#000000000000', '#FFFF9C9CA3A3', '#D0D0F0F0A8A8', '#FFFFEDEDACAC', '#BABADADAFFFF', '#EBEBBABAFFFF', '#9999FFFFFFFF', '#FFFFFEFEFEFE']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000024245151'

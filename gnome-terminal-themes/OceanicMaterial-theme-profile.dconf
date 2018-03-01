@@ -1,0 +1,9 @@
+[:121c932e-0b7e-4095-91ad-0cd9b573035c]
+foreground-color='#C2C2C8C8D7D7'
+visible-name='OceanicMaterial'
+palette=['#000000000000', '#EEEE2A2A2929', '#3F3FA3A33F3F', '#FEFEE9E92E2E', '#1D1D8080EFEF', '#88880000A0A0', '#1616AEAEC9C9', '#A4A4A4A4A4A4', '#767676767676', '#DCDC5B5B6060', '#7070BEBE7171', '#FEFEF0F06363', '#5353A4A4F3F3', '#A9A94D4DBBBB', '#4242C6C6D9D9', '#FFFFFEFEFEFE']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#1C1C26262B2B'

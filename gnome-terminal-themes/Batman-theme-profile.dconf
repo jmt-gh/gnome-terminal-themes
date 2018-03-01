@@ -1,0 +1,9 @@
+[:67d38396-28b2-4771-8436-fbe11d21ac5e]
+foreground-color='#6E6E6E6E6E6E'
+visible-name='Batman'
+palette=['#1B1B1D1D1E1E', '#E6E6DBDB4343', '#C8C8BEBE4646', '#F3F3FDFD2121', '#737370707474', '#737372727171', '#61615F5F5E5E', '#C5C5C5C5BEBE', '#505053535454', '#FFFFF6F68D8D', '#FFFFF2F27C7C', '#FEFEEDED6C6C', '#909094949595', '#9A9A99999D9D', '#A2A2A2A2A5A5', '#DADADADAD5D5']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#1B1B1D1D1E1E'

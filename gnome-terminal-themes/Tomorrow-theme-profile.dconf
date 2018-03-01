@@ -1,0 +1,9 @@
+[:1ad4d9da-3f73-4575-89b5-baa31ccc081e]
+foreground-color='#4D4D4D4D4C4C'
+visible-name='Tomorrow'
+palette=['#000000000000', '#C8C828282828', '#71718C8C0000', '#EAEAB7B70000', '#41417171AEAE', '#89895959A8A8', '#3E3E99999F9F', '#FFFFFEFEFEFE', '#000000000000', '#C8C828282828', '#70708B8B0000', '#E9E9B6B60000', '#41417070AEAE', '#89895858A7A7', '#3D3D99999F9F', '#FFFFFEFEFEFE']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#FFFFFFFFFFFF'

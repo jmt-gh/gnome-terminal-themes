@@ -1,0 +1,9 @@
+[:59ca854a-bcfe-46bc-a273-3db035cd359f]
+foreground-color='#ABABB2B2BFBF'
+visible-name='BlulocoDark'
+palette=['#49494F4F5C5C', '#F7F710104141', '#232397974A4A', '#FCFC7E7E5757', '#28285A5AFEFE', '#8C8C6262FDFD', '#36366F6F9999', '#CCCCD5D5E4E4', '#606069697A7A', '#FBFB49496D6D', '#3737BCBC5858', '#F6F6BDBD4747', '#18189F9FFDFD', '#FBFB5757F6F6', '#4F4FABABADAD', '#FEFEFEFEFEFE']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#1E1E20202727'

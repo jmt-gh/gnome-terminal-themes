@@ -1,0 +1,9 @@
+[:bba7c9ba-d24c-435e-8b6b-3bf5b4755927]
+foreground-color='#D8D8D8D8D8D8'
+visible-name='Monokai Remastered'
+palette=['#191919191919', '#F3F300005F5F', '#9797E0E02323', '#FDFD97971F1F', '#9C9C6464FEFE', '#F3F300005F5F', '#5757D1D1EAEA', '#C4C4C4C4B5B5', '#61615E5E4B4B', '#F3F300005F5F', '#9797E0E02323', '#DFDFD5D56161', '#9C9C6464FEFE', '#F3F300005F5F', '#5757D1D1EAEA', '#F6F6F6F6EEEE']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#0B0B0B0B0B0B'

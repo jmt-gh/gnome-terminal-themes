@@ -1,0 +1,9 @@
+[:fd4ead32-a44a-41cd-8a16-d85335b5ee0c]
+foreground-color='#525267676F6F'
+visible-name='Violet Light'
+palette=['#565659595C5C', '#C9C94C4C2222', '#858598981C1C', '#B4B488881D1D', '#2E2E8B8BCECE', '#D1D13A3A8282', '#3232A1A19898', '#D3D3D0D0C9C9', '#454548484B4B', '#BDBD36361212', '#727289890303', '#A5A577770404', '#20207575C7C7', '#C6C61B1B6E6E', '#252591918585', '#C8C8C5C5BDBD']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#FCFCF4F4DCDC'

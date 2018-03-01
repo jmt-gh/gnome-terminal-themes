@@ -1,0 +1,9 @@
+[:ec614c7a-f5d9-47f9-9720-267fac4c957e]
+foreground-color='#3A3A40405555'
+visible-name='Base16-Railscasts-Light'
+palette=['#2B2B2B2B2B2B', '#DADA49493939', '#A5A5C2C26161', '#FFFFC6C66D6D', '#6D6D9C9CBEBE', '#B6B6B3B3EBEB', '#51519F9F5050', '#E6E6E1E1DCDC', '#5A5A64647E7E', '#CCCC78783333', '#272729293535', '#3A3A40405555', '#D4D4CFCFC9C9', '#F4F4F1F1EDED', '#BCBC94945858', '#F9F9F7F7F3F3']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#F9F9F7F7F3F3'

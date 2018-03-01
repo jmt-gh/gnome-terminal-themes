@@ -1,0 +1,9 @@
+[:94f35573-249d-401f-a168-172863ff6f99]
+foreground-color='#BBBBBBBBBBBB'
+visible-name='NightLion v1'
+palette=['#4C4C4C4C4C4C', '#BBBB00000000', '#5E5EDEDE8F8F', '#F2F2F0F06767', '#26266A6AD7D7', '#BBBB0000BBBB', '#0000D9D9DFDF', '#BBBBBBBBBBBB', '#555555555555', '#FFFF55555555', '#5555FFFF5555', '#FFFFFFFF5555', '#55555555FFFF', '#FFFF5555FFFF', '#5555FFFFFFFF', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

@@ -1,0 +1,9 @@
+[:60712854-e569-441c-a9d2-40503514988f]
+foreground-color='#000000000000'
+visible-name='Builtin Tango Light'
+palette=['#000000000000', '#CCCC00000000', '#4E4E9A9A0505', '#C4C4A0A00000', '#34346464A4A4', '#747450507A7A', '#050598989A9A', '#D3D3D7D7CFCF', '#545457575353', '#EFEF28282828', '#8A8AE2E23434', '#FCFCE9E94E4E', '#71719E9ECFCF', '#ADAD7E7EA7A7', '#3434E2E2E2E2', '#EDEDEDEDECEC']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#FFFFFFFFFFFF'

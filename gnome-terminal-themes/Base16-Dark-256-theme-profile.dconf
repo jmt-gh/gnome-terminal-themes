@@ -1,0 +1,9 @@
+[:e67b1d6c-d09a-41e7-bf73-22cc7d4be119]
+foreground-color='#E6E6E1E1DCDC'
+visible-name='Base16-Dark-256'
+palette=['#2B2B2B2B2B2B', '#DADA49493939', '#A5A5C2C26161', '#FFFFC6C66D6D', '#6D6D9C9CBEBE', '#B6B6B3B3EBEB', '#51519F9F5050', '#E6E6E1E1DCDC', '#5A5A64647E7E', '#DADA49493939', '#A5A5C2C26161', '#FFFFC6C66D6D', '#6D6D9C9CBEBE', '#B6B6B3B3EBEB', '#51519F9F5050', '#F9F9F7F7F3F3']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#2B2B2B2B2B2B'

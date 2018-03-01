@@ -1,0 +1,9 @@
+[:904d1c5c-67d1-40c2-9943-5a57c5dda4b9]
+foreground-color='#F2F2F2F2F2F2'
+visible-name='Pro'
+palette=['#000000000000', '#999900000000', '#0000A6A60000', '#999999990000', '#1F1F0808DBDB', '#B2B20000B2B2', '#0000A6A6B2B2', '#BFBFBFBFBFBF', '#666666666666', '#E5E500000000', '#0000D9D90000', '#E5E5E5E50000', '#00000000FFFF', '#E5E50000E5E5', '#0000E5E5E5E5', '#E5E5E5E5E5E5']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

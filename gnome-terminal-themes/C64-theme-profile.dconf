@@ -1,0 +1,9 @@
+[:42f3d05d-d832-447e-b6c1-4848e2fc7db3]
+foreground-color='#78786969C4C4'
+visible-name='C64'
+palette=['#090903030000', '#888839393232', '#5555A0A04949', '#BFBFCECE7272', '#404031318D8D', '#8B8B3F3F9696', '#6767B6B6BDBD', '#FFFFFFFFFFFF', '#000000000000', '#888839393232', '#5555A0A04949', '#BFBFCECE7272', '#404031318D8D', '#8B8B3F3F9696', '#6767B6B6BDBD', '#F7F7F7F7F7F7']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#404031318D8D'

@@ -1,0 +1,9 @@
+[:13fd9318-252c-4c95-8323-1e71c4f05fb7]
+foreground-color='#F8F8F8F8F8F8'
+visible-name='Monokai Vivid'
+palette=['#121212121212', '#FAFA28283434', '#9797E1E12323', '#FEFEF2F20A0A', '#04044242FEFE', '#F8F80000F8F8', '#0101B6B6EDED', '#FFFFFEFEFEFE', '#828282828282', '#F5F566669C9C', '#B0B0E0E05E5E', '#FEFEF2F26C6C', '#04044242FEFE', '#F2F20000F5F5', '#5050CDCDFEFE', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#121212121212'

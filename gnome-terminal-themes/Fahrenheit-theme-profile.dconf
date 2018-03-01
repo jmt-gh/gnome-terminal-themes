@@ -1,0 +1,9 @@
+[:a7e44a29-715e-44e9-a840-9d8fd961b52f]
+foreground-color='#FFFFFFFFCDCD'
+visible-name='Fahrenheit'
+palette=['#1C1C1C1C1C1C', '#CCCC9F9F7474', '#9E9E74744C4C', '#FDFDCFCF7474', '#727200000101', '#73734B4B4C4C', '#979797979797', '#FFFFFFFFCDCD', '#000000000000', '#FDFDCECE9F9F', '#CBCB72724C4C', '#FDFD9F9F4D4D', '#CBCB49490505', '#4D4D72729F9F', '#FEFECFCF4D4D', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

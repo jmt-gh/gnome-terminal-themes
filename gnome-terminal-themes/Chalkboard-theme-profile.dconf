@@ -1,0 +1,9 @@
+[:a6d2711e-f2e0-467a-9d4d-6052924f5d38]
+foreground-color='#D9D9E6E6F2F2'
+visible-name='Chalkboard'
+palette=['#000000000000', '#C3C373737272', '#7272C3C37373', '#C2C2C3C37272', '#73737272C3C3', '#C3C37272C2C2', '#7272C2C2C3C3', '#D9D9D9D9D9D9', '#323232323232', '#DBDBAAAAAAAA', '#AAAADBDBAAAA', '#DADADBDBAAAA', '#AAAAAAAADBDB', '#DBDBAAAADADA', '#AAAADADADBDB', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#292926262F2F'

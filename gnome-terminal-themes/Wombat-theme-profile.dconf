@@ -1,0 +1,9 @@
+[:8ceab707-b26f-4941-a61a-087e6dc75891]
+foreground-color='#DEDED9D9CECE'
+visible-name='Wombat'
+palette=['#000000000000', '#FFFF60605A5A', '#B1B1E8E86969', '#EAEAD8D89C9C', '#5D5DA9A9F6F6', '#E8E86A6AFFFF', '#8282FFFFF6F6', '#DEDED9D9CECE', '#313131313131', '#F5F58B8B7F7F', '#DCDCF8F88F8F', '#EEEEE5E5B2B2', '#A5A5C7C7FFFF', '#DDDDAAAAFFFF', '#B6B6FFFFF9F9', '#FEFEFFFFFEFE']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#171717171717'

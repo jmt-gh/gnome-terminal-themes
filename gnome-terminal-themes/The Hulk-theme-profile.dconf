@@ -1,0 +1,9 @@
+[:70ea7991-cabc-4531-a3d4-d93a8783d247]
+foreground-color='#B4B4B4B4B4B4'
+visible-name='The Hulk'
+palette=['#1B1B1D1D1E1E', '#25259D9D1A1A', '#1313CECE2F2F', '#6262E4E45656', '#24242424F4F4', '#64641E1E7373', '#37378C8CA9A9', '#D8D8D8D8D0D0', '#505053535454', '#8D8DFFFF2A2A', '#4848FFFF7676', '#3A3AFEFE1515', '#4F4F6A6A9595', '#727257579D9D', '#3F3F8585A5A5', '#E5E5E5E5E0E0']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#1B1B1D1D1E1E'

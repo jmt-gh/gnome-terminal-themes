@@ -1,0 +1,9 @@
+[:23fd552f-e78c-41f8-82a7-cbc3ac299171]
+foreground-color='#DEDEDEDEDEDE'
+visible-name='Jellybeans'
+palette=['#929292929292', '#E2E273737373', '#9393B9B97979', '#FFFFBABA7B7B', '#9797BEBEDCDC', '#E1E1C0C0FAFA', '#000098988E8E', '#DEDEDEDEDEDE', '#BDBDBDBDBDBD', '#FFFFA1A1A1A1', '#BDBDDEDEABAB', '#FFFFDCDCA0A0', '#B1B1D8D8F6F6', '#FBFBDADAFFFF', '#1A1AB2B2A8A8', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#121212121212'

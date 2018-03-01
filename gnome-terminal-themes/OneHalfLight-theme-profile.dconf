@@ -1,0 +1,9 @@
+[:70045976-c642-4403-8522-41182a0caa77]
+foreground-color='#373739394242'
+visible-name='OneHalfLight'
+palette=['#373739394242', '#E4E456564949', '#4F4FA1A14F4F', '#C0C084840000', '#00008484BCBC', '#A6A62525A4A4', '#09099696B3B3', '#FAFAFAFAFAFA', '#4F4F52525D5D', '#DFDF6C6C7575', '#9898C3C37979', '#E4E4C0C07A7A', '#6161AFAFEFEF', '#C5C57777DDDD', '#5656B5B5C1C1', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#FAFAFAFAFAFA'

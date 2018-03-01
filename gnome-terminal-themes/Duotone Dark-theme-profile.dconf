@@ -1,0 +1,9 @@
+[:777e8803-3140-4122-ad7c-07638fb42a44]
+foreground-color='#B6B6A0A0FFFF'
+visible-name='Duotone Dark'
+palette=['#1F1F1C1C2727', '#D8D839393D3D', '#2D2DCCCC7272', '#D8D8B7B76E6E', '#FFFFC1C18383', '#DDDD8D8D4040', '#23238888FFFF', '#B6B6A0A0FFFF', '#353531314646', '#D8D839393D3D', '#2D2DCCCC7272', '#D8D8B7B76E6E', '#FFFFC1C18383', '#DDDD8D8D4040', '#23238888FFFF', '#E9E9E4E4FFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#1F1F1C1C2727'

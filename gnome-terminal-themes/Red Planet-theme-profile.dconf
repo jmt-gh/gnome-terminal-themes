@@ -1,0 +1,9 @@
+[:3f428ab6-1130-4b31-9926-8f9ce5573070]
+foreground-color='#C2C2B7B79090'
+visible-name='Red Planet'
+palette=['#20201F1F1F1F', '#8C8C34343232', '#727282827171', '#E8E8BFBF6A6A', '#696980809E9E', '#898964649292', '#5B5B83839090', '#B9B9AAAA9999', '#676767676767', '#B5B552524242', '#868699998585', '#EBEBEBEB9191', '#606082827E7E', '#DEDE48487373', '#3838ADADD8D8', '#D6D6BFBFB8B8']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#222222222222'

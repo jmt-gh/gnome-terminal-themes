@@ -1,0 +1,9 @@
+[:fb3f1a26-51e7-4ea6-a2f9-80d807b7cce8]
+foreground-color='#EAEAEAEAEAEA'
+visible-name='DotGov'
+palette=['#181818181818', '#BFBF08081D1D', '#3D3D97975151', '#F6F6BBBB3333', '#1616B1B1DFDF', '#77772F2FB0B0', '#8B8BD1D1EDED', '#FFFFFFFFFFFF', '#181818181818', '#BFBF08081D1D', '#3D3D97975151', '#F6F6BBBB3333', '#1616B1B1DFDF', '#77772F2FB0B0', '#8B8BD1D1EDED', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#25252B2B3535'

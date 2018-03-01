@@ -1,0 +1,9 @@
+[:6f84b400-5e70-4ea7-8dd3-552020a14067]
+foreground-color='#ADADADADADAD'
+visible-name='JetBrains Darcula'
+palette=['#000000000000', '#FAFA53535555', '#12126E6E0000', '#C2C2C3C30000', '#45458181EBEB', '#FAFA5454FFFF', '#3333C2C2C1C1', '#ADADADADADAD', '#555555555555', '#FBFB71717272', '#6767FFFF4F4F', '#FFFFFFFF0000', '#6D6D9D9DF1F1', '#FBFB8282FFFF', '#6060D3D3D1D1', '#EEEEEEEEEEEE']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#202020202020'

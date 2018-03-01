@@ -1,0 +1,9 @@
+[:12539035-1135-4c11-9d7f-7d29e39a2466]
+foreground-color='#E1E1E1E1E1E1'
+visible-name='Pandora'
+palette=['#000000000000', '#FFFF42424242', '#7474AFAF6868', '#FFFFADAD2929', '#33338F8F8686', '#94941313E5E5', '#2323D7D7D7D7', '#E1E1E1E1E1E1', '#3E3E55554848', '#FFFF32324242', '#7474CDCD6868', '#FFFFB9B92929', '#2323D7D7D7D7', '#FFFF3737FFFF', '#0000EDEDE1E1', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#13131D1D4242'

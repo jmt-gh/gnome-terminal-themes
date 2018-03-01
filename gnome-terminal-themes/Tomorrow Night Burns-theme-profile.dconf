@@ -1,0 +1,9 @@
+[:3cc93666-db87-42a2-81ce-72f38c662fd3]
+foreground-color='#A1A1B0B0B8B8'
+visible-name='Tomorrow Night Burns'
+palette=['#252525252525', '#83832E2E3131', '#A6A63B3B3F3F', '#D2D249494E4E', '#FCFC59595F5F', '#DFDF93939595', '#B9B984848686', '#F5F5F5F5F5F5', '#5D5D6F6F7171', '#83832E2E3131', '#A6A63C3C3F3F', '#D2D248484D4D', '#FCFC59595F5F', '#DFDF93939595', '#B9B984848686', '#F5F5F5F5F5F5']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#151515151515'

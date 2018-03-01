@@ -1,0 +1,9 @@
+[:0c4abb60-e54e-4c15-a2b9-aa66db2b3c75]
+foreground-color='#FFFFFFFFFFFF'
+visible-name='Builtin Tango Dark'
+palette=['#000000000000', '#CCCC00000000', '#4E4E9A9A0505', '#C4C4A0A00000', '#34346464A4A4', '#747450507A7A', '#050598989A9A', '#D3D3D7D7CFCF', '#545457575353', '#EFEF28282828', '#8A8AE2E23434', '#FCFCE9E94E4E', '#71719E9ECFCF', '#ADAD7E7EA7A7', '#3434E2E2E2E2', '#EDEDEDEDECEC']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

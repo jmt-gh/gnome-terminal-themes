@@ -1,0 +1,9 @@
+[:094fdd75-cb1d-49ee-8037-cc03a7609b65]
+foreground-color='#262626262626'
+visible-name='CLRS'
+palette=['#000000000000', '#F7F727272929', '#323289895C5C', '#F9F96F6F1C1C', '#12125C5CCFCF', '#9F9F0000BCBC', '#3232C2C2C0C0', '#B2B2B2B2B2B2', '#545457575353', '#FBFB04041616', '#2C2CC6C63131', '#FCFCD6D62727', '#15156F6FFEFE', '#E8E80000B0B0', '#3939D5D5CECE', '#EDEDEDEDECEC']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#FFFFFFFFFFFF'

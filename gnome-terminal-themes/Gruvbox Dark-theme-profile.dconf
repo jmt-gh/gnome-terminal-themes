@@ -1,0 +1,9 @@
+[:bf2075c4-a37e-4be9-946e-6be2f300f558]
+foreground-color='#E5E5D3D3A2A2'
+visible-name='Gruvbox Dark'
+palette=['#161618181818', '#F6F630302828', '#A9A9B0B01D1D', '#F7F7B0B02424', '#707095958585', '#C7C76F6F8989', '#7D7DB5B56868', '#F9F9EEEEBBBB', '#7F7F70706060', '#BEBE0E0E1717', '#868687871515', '#CCCC87871A1A', '#373772727474', '#9F9F4B4B7373', '#56568D8D5757', '#E5E5D3D3A2A2']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#1D1D1D1D1D1D'

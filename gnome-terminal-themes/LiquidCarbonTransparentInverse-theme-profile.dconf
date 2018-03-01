@@ -1,0 +1,9 @@
+[:121ef9b0-cee8-478c-88f8-b087ffeb77e1]
+foreground-color='#AFAFC2C2C2C2'
+visible-name='LiquidCarbonTransparentInverse'
+palette=['#BBBBCBCBCCCC', '#FFFF2F2F2F2F', '#54549A9A6F6F', '#CCCCACAC0000', '#00009999CCCC', '#CCCC6868C8C8', '#7979C4C4CCCC', '#000000000000', '#FFFFFFFFFFFF', '#FFFF2F2F2F2F', '#54549A9A6F6F', '#CCCCACAC0000', '#00009999CCCC', '#CCCC6868C8C8', '#7979C4C4CCCC', '#000000000000']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

@@ -1,0 +1,9 @@
+[:e57da5ce-9b4e-49c8-97b9-78ef6028eaa4]
+foreground-color='#ECECECECECEC'
+visible-name='Ryuuko'
+palette=['#2B2B38384040', '#86865E5E5A5A', '#65658F8F7D7D', '#B1B1A8A88F8F', '#69698D8D9595', '#B0B08A8A7373', '#8888B2B2ABAB', '#ECECECECECEC', '#5D5D6F6F7979', '#86865E5E5A5A', '#65658F8F7D7D', '#B1B1A8A88F8F', '#69698D8D9595', '#B0B08A8A7373', '#8888B2B2ABAB', '#ECECECECECEC']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#2B2B38384040'

@@ -1,0 +1,9 @@
+[:e08a4e93-0df9-4a6b-9e93-5ce4a7b3e55b]
+foreground-color='#D5D5CECED9D9'
+visible-name='Calamity'
+palette=['#2F2F28283333', '#FCFC64644D4D', '#A5A5F6F69C9C', '#E9E9D7D7A5A5', '#3B3B7979C7C7', '#F9F926267272', '#7474D3D3DEDE', '#D5D5CECED9D9', '#7E7E6C6C8888', '#FCFC64644D4D', '#A5A5F6F69C9C', '#E9E9D7D7A5A5', '#3B3B7979C7C7', '#F9F926267272', '#7474D3D3DEDE', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#2F2F28283333'

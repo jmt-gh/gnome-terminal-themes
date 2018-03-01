@@ -1,0 +1,9 @@
+[:e63f4122-253b-46c9-a3b8-6e2b06a95b56]
+foreground-color='#E2E2E2E2E2E2'
+visible-name='Spiderman'
+palette=['#1B1B1D1D1E1E', '#E6E607071212', '#E2E228282828', '#E2E246465555', '#2B2B3F3FFFFF', '#24243535DBDB', '#32325555FFFF', '#FFFFFEFEF6F6', '#505053535454', '#FFFF03032525', '#FFFF32323838', '#FEFE39393535', '#1D1D4F4FFFFF', '#73737B7BFFFF', '#60608383FFFF', '#FEFEFFFFF9F9']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#1B1B1D1D1E1E'

@@ -1,0 +1,9 @@
+[:87ead008-4eb9-4e0d-890c-88d886f65c29]
+foreground-color='#FFFFFFFFFFFF'
+visible-name='Neopolitan'
+palette=['#000000000000', '#808000000000', '#6161CECE3C3C', '#FBFBDEDE2D2D', '#25253B3B7676', '#FFFF00008080', '#8D8DA6A6CECE', '#F8F8F8F8F8F8', '#000000000000', '#808000000000', '#6161CECE3C3C', '#FBFBDEDE2D2D', '#25253B3B7676', '#FFFF00008080', '#8D8DA6A6CECE', '#F8F8F8F8F8F8']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#27271F1F1919'

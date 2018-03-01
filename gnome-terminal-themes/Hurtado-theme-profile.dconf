@@ -1,0 +1,9 @@
+[:02eae033-3efe-4162-bab0-011c60a68d90]
+foreground-color='#DADADBDBDADA'
+visible-name='Hurtado'
+palette=['#575757575757', '#FFFF1B1B0000', '#A5A5DFDF5555', '#FBFBE7E74A4A', '#484863638787', '#FCFC5E5EF0F0', '#8585E9E9FEFE', '#CBCBCBCBCBCB', '#252525252525', '#D4D41C1C0000', '#A5A5DFDF5555', '#FBFBE7E74949', '#8989BDBDFFFF', '#BFBF0000C0C0', '#8585E9E9FEFE', '#DBDBDBDBDBDB']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

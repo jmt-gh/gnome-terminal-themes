@@ -1,0 +1,9 @@
+[:a1ed22cc-33df-4098-80df-5bd518d9b57f]
+foreground-color='#2A2A2C2C3333'
+visible-name='AtomOneLight'
+palette=['#000000000000', '#DEDE3E3E3535', '#3F3F95953A3A', '#D2D2B6B67C7C', '#2F2F5A5AF3F3', '#959500009595', '#3F3F95953A3A', '#BBBBBBBBBBBB', '#000000000000', '#DEDE3E3E3535', '#3F3F95953A3A', '#D2D2B6B67C7C', '#2F2F5A5AF3F3', '#A0A000009595', '#3F3F95953A3A', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#F9F9F9F9F9F9'

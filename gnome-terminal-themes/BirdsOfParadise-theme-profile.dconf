@@ -1,0 +1,9 @@
+[:a30b2249-f688-4221-9606-371ab22a39c7]
+foreground-color='#DFDFDADAB7B7'
+visible-name='BirdsOfParadise'
+palette=['#57573D3D2525', '#BEBE2D2D2626', '#6B6BA0A08A8A', '#E9E99C9C2929', '#5A5A8686ACAC', '#ABAB8080A6A6', '#7474A5A5ACAC', '#DFDFDADAB7B7', '#9A9A6B6B4949', '#E8E845452626', '#9494D7D7BABA', '#D0D0D0D04F4F', '#B8B8D3D3EDED', '#D0D09D9DCACA', '#9292CECED6D6', '#FFFFF9F9D4D4']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#2A2A1E1E1D1D'

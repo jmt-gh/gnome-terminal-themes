@@ -1,0 +1,9 @@
+[:f81482c7-ad73-4c73-bf84-6b68081ed5aa]
+foreground-color='#C9C9C9C9C9C9'
+visible-name='Hacktober'
+palette=['#191919191818', '#B3B345453838', '#585877774444', '#D0D089894949', '#20206E6EC5C5', '#868646465151', '#ACAC91916666', '#F1F1EEEEE7E7', '#2C2C2B2B2A2A', '#B3B333332323', '#424282824A4A', '#C7C75A5A2222', '#53538989C5C5', '#E7E79595A5A5', '#EBEBC5C58787', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#141414141414'

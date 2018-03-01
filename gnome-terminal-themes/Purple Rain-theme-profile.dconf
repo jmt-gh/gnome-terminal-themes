@@ -1,0 +1,9 @@
+[:3a1b7ff3-3e5e-47ba-a595-2898c0673c1e]
+foreground-color='#FFFFFAFAF5F5'
+visible-name='Purple Rain'
+palette=['#000000000000', '#FFFF26260D0D', '#9A9AE2E20404', '#FFFFC4C40000', '#0000A1A1F9F9', '#80805B5BB5B5', '#0000DDDDEFEF', '#FEFEFFFFFFFF', '#555555555555', '#FFFF42425050', '#B8B8E3E36D6D', '#FFFFD8D85252', '#0000A5A5FFFF', '#ABAB7A7AEFEF', '#7474FCFCF3F3', '#FEFEFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#202008084A4A'

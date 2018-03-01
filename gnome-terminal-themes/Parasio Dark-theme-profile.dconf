@@ -1,0 +1,9 @@
+[:8f267e39-4ab5-4104-8c1c-93061ccf8d31]
+foreground-color='#A3A39E9E9B9B'
+visible-name='Parasio Dark'
+palette=['#2F2F1E1E2E2E', '#EFEF61615555', '#4848B6B68585', '#FEFEC4C41818', '#0606B6B6EFEF', '#81815B5BA4A4', '#5B5BC4C4BFBF', '#A3A39E9E9B9B', '#77776E6E7171', '#EFEF61615555', '#4848B6B68585', '#FEFEC4C41818', '#0606B6B6EFEF', '#81815B5BA4A4', '#5B5BC4C4BFBF', '#E7E7E9E9DBDB']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#2F2F1E1E2E2E'

@@ -1,0 +1,9 @@
+[:12772edf-f044-4137-a26e-73e4a0923884]
+foreground-color='#7C7C8F8FA4A4'
+visible-name='FirefoxDev'
+palette=['#000027273131', '#E6E638385353', '#5E5EB8B83C3C', '#A5A577770505', '#35359D9DDFDF', '#D7D75C5CFFFF', '#4B4B7373A2A2', '#DCDCDCDCDCDC', '#00001E1E2626', '#E1E100003F3F', '#1D1D90900000', '#CCCC93930808', '#00006F6FC0C0', '#A2A20000DADA', '#000057579494', '#E2E2E2E2E2E2']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#0E0E10101111'

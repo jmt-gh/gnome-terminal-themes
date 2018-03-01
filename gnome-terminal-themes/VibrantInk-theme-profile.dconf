@@ -1,0 +1,9 @@
+[:c141c842-b20c-4544-a687-469f15320f67]
+foreground-color='#FFFFFFFFFFFF'
+visible-name='VibrantInk'
+palette=['#878787878787', '#FFFF66660000', '#CCCCFFFF0404', '#FFFFCCCC0000', '#4444B3B3CCCC', '#99993333CCCC', '#4444B3B3CCCC', '#F5F5F5F5F5F5', '#555555555555', '#FFFF00000000', '#0000FFFF0000', '#FFFFFFFF0000', '#00000000FFFF', '#FFFF0000FFFF', '#0000FFFFFFFF', '#E5E5E5E5E5E5']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#000000000000'

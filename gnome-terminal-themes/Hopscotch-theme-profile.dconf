@@ -1,0 +1,9 @@
+[:891eccc6-28b5-4ca1-be2a-5095b583cab0]
+foreground-color='#B9B9B5B5B8B8'
+visible-name='Hopscotch'
+palette=['#323229293131', '#DDDD46464C4C', '#8F8FC1C13E3E', '#FDFDCCCC5959', '#12129090BFBF', '#C8C85E5E7C7C', '#14149B9B9393', '#B9B9B5B5B8B8', '#797973737979', '#FDFD8B8B1919', '#43433B3B4242', '#5C5C54545B5B', '#989894949898', '#D5D5D3D3D5D5', '#B3B335350808', '#FFFFFFFFFFFF']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#323229293131'

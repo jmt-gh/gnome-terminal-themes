@@ -1,0 +1,9 @@
+[:7348628b-5f46-4388-bf5c-5d3d8226d214]
+foreground-color='#BABABABABABA'
+visible-name='Darkside'
+palette=['#000000000000', '#E8E834341C1C', '#6868C2C25656', '#F2F2D3D32C2C', '#1C1C9898E8E8', '#8E8E6969C9C9', '#1C1C9898E8E8', '#BABABABABABA', '#000000000000', '#DFDF5A5A4F4F', '#7676B7B76868', '#EEEED6D64A4A', '#38387B7BD2D2', '#95957B7BBDBD', '#3D3D9696E2E2', '#BABABABABABA']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#222223232424'

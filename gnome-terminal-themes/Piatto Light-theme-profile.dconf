@@ -1,0 +1,9 @@
+[:a1b18f5e-541b-4644-bcf0-fae3d819d91e]
+foreground-color='#414141414141'
+visible-name='Piatto Light'
+palette=['#414141414141', '#B2B237377171', '#666678781E1E', '#CDCD6F6F3434', '#3C3C5E5EA8A8', '#A4A45454B2B2', '#666678781E1E', '#FFFFFFFFFFFF', '#3F3F3F3F3F3F', '#DBDB33336565', '#828294942929', '#CDCD6F6F3434', '#3C3C5E5EA8A8', '#A4A45454B2B2', '#828294942929', '#F2F2F2F2F2F2']
+use-system-font=false
+use-theme-colors=false
+font='Ubuntu Mono 12'
+use-theme-background=false
+background-color='#FFFFFFFFFFFF'
